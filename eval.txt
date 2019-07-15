@@ -1,0 +1,21 @@
+Evaluation of the Calculator Projet (BTI 7064)
+----------------------------------------------
+
+Compilation/execution:
+----------------------
+
+	OK
+
+Calculator Javacc:
+------------------
+
+None
+
+
+Calculator Recursive Descent Java:
+----------------------------------
+
+Good job, everything works well.
+
+
+Total number of points:  25/25
